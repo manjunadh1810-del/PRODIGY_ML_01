@@ -87,4 +87,5 @@ The Linear Regression model successfully predicts house prices based on selected
 Prodigy InfoTech – Machine Learning Internship Task-01
 
 🔗 GitHub Repository :-
+https://github.com/manjunadh1810-del/PRODIGY_ML_01
     
